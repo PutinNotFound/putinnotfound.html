@@ -4,7 +4,7 @@
 
 ```
 RewriteEngine on
-ErrorDocument 404 https://MYSITE.COM/putinnotfound.html , 
+ErrorDocument 404 https://MYSITE.COM/putinnotfound.html
 ```
 3. Copy putinnotfound.html to root of the site.
 
