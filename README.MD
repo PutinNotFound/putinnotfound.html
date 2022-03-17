@@ -1,11 +1,11 @@
 1. Create .htaccess on root directory of the site.
 
-2. Edit .htaccess. Add rows
+2. Edit .htaccess. Add its rows. Here MYSITE.COM replace by real URI your website.
 
+```
 RewriteEngine on
 ErrorDocument 404 https://MYSITE.COM/putinnotfound.html , 
-
-here MYSITE.COM replace by real URI your website.
+```
 
 3. Copy putinnotfound.html to root of the site.
 
